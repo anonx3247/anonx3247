@@ -1,9 +1,6 @@
 # Hi there! 👋 I'm Anas Lecaillon
 
 Engineering Student at CentraleSupélec with a strong focus on Cybersecurity and AI.
-
-![](logos.png)
-
 ## 🎓 About Me
 - 🌟 Passionate about AI and Cybersecurity
 - 🏛️ Based in Paris, France
