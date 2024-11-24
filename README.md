@@ -2,7 +2,7 @@
 
 Engineering Student at CentraleSupélec with a strong focus on Cybersecurity and AI.
 
-![](main-image.png)
+![](logos.png)
 
 ## 🎓 About Me
 - 🌟 Passionate about AI and Cybersecurity
